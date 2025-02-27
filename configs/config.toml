@@ -1,0 +1,5 @@
+Service = "safebooru"
+Token = ""
+ChannelID = -1000000000000 # Channel ID to post
+YourID = 1000000000 # Your ID for preload post
+Cooldown = 5 # Minutes
