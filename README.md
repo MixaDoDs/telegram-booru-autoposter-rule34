@@ -3,9 +3,9 @@
 If u wanna use this shit, i need install "go"
 
 # Linux
-`Arch - sudo pacman go`
-`Fedora - sudo dnf go`
-`NixOs - later`
+Arch - `sudo pacman go`
+Fedora - `sudo dnf go`
+NixOs - `later`
 
 ## How to install
 
